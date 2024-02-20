@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "manim_code_blocks_redux"
-version = "1.0.13"
+version = "1.0.14"
 description = "Animate highlighted blocks of code in Manim"
 readme = "README.md"
 authors = [{ name = "chand1012" }]
